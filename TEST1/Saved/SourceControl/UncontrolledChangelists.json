@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/esala/Documents/Unreal Projects/TEST1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/esala/Documents/Unreal Projects/TEST1/Content/FirstPerson/Input/Actions/IA_Hola.uasset",
+				"C:/Users/esala/Documents/Unreal Projects/TEST1/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/esala/Documents/Unreal Projects/TEST1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/esala/Documents/Unreal Projects/TEST1/Content/FirstPerson/Input/Actions/IA_Jump.uasset",
+				"C:/Users/esala/Documents/Unreal Projects/TEST1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/esala/Documents/Unreal Projects/TEST1/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/esala/Documents/Unreal Projects/TEST1/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"C:/Users/esala/Documents/Unreal Projects/TEST1/Content/FirstPerson/Input/Actions/IA_Sprint.uasset",
+				"C:/Users/esala/Documents/Unreal Projects/TEST1/Content/FirstPerson/Input/Actions/IA_Habilidad1.uasset",
+				"C:/Users/esala/Documents/Unreal Projects/TEST1/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/esala/Documents/Unreal Projects/TEST1/Content/FirstPerson/Input/Actions/IA_Shoot.uasset",
+				"C:/Users/esala/Documents/Unreal Projects/TEST1/Content/FirstPerson/Input/IMC_Weapons.uasset",
+				"C:/Users/esala/Documents/Unreal Projects/TEST1/Content/FirstPerson/Input/Actions/IA_SpecialShot.uasset",
+				"C:/Users/esala/Documents/Unreal Projects/TEST1/Content/FirstPerson/Blueprints/BP_RocketSpecialShot.uasset",
+				"C:/Users/esala/Documents/Unreal Projects/TEST1/Content/FirstPerson/Blueprints/ExplosionRocket.uasset",
+				"C:/Users/esala/Documents/Unreal Projects/TEST1/Content/FPWeapon/Explosion.uasset",
+				"C:/Users/esala/Documents/Unreal Projects/TEST1/Content/FirstPerson/Blueprints/RadialForceActor_Blueprint.uasset",
+				"C:/Users/esala/Documents/Unreal Projects/TEST1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/T1/BUD411WENJ4Y3KZA47BUVK.uasset",
+				"C:/Users/esala/Documents/Unreal Projects/TEST1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/TX/D9G49WWZZ7JO7QSU126YBW.uasset",
+				"C:/Users/esala/Documents/Unreal Projects/TEST1/Content/FirstPerson/Blueprints/BP_PCuracion.uasset",
+				"C:/Users/esala/Documents/Unreal Projects/TEST1/Content/FirstPerson/Blueprints/OndaCuracion.uasset",
+				"C:/Users/esala/Documents/Unreal Projects/TEST1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/esala/Documents/Unreal Projects/TEST1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK.uasset",
+				"C:/Users/esala/Documents/Unreal Projects/TEST1/Content/Maps/01_Basicos.umap",
+				"C:/Users/esala/Documents/Unreal Projects/TEST1/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/esala/Documents/Unreal Projects/TEST1/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/Users/esala/Documents/Unreal Projects/TEST1/Content/FirstPerson/Input/IMC_Abilities.uasset"
+			]
+		}
+	]
+}
